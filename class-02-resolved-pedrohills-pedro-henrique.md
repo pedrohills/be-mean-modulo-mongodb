@@ -6,7 +6,6 @@ autor: Pedro Henrique
 > show dbs
 be-mean            0.078GB
 be-mean-instagram  0.078GB
-be-mean-pokemons   0.078GB
 contatooh          0.078GB
 local              0.078GB
 ```
